@@ -92,3 +92,9 @@ qp + scale_x_log10()
 
 
 ```
+
+```{r plots-kable, fig.height=5}
+
+
+
+```
